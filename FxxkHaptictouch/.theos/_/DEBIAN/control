@@ -1,0 +1,10 @@
+Package: com.fahlnbg.fxxkhaptictouch
+Name: FxxkHapticTouch
+Author: @fahlnbg
+Description: Disable iOS 13 Haptic Touch
+Depends: mobilesubstrate
+Maintainer: fahlnbg
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 108

@@ -1,0 +1,10 @@
+Package: com.fahlnbg.appcheats
+Name: AppCheats
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: fahlnbg
+Author: fahlnbg
+Section: Tweaks
+Version: 2.0-1+debug
+Installed-Size: 444

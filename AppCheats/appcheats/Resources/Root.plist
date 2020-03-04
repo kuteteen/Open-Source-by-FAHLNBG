@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.fahlnbg.appcheats/pref</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.fahlnbg.appcheats</string>
+			<key>key</key>
+			<string>zing</string>
+			<key>label</key>
+			<string>Zing TV</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.fahlnbg.appcheats/pref</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.fahlnbg.appcheats</string>
+			<key>key</key>
+			<string>messenger</string>
+			<key>label</key>
+			<string>Messenger</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.fahlnbg.appcheats/pref</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.fahlnbg.appcheats</string>
+			<key>key</key>
+			<string>facebook</string>
+			<key>label</key>
+			<string>Facebook</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.fahlnbg.appcheats/pref</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.fahlnbg.appcheats</string>
+			<key>key</key>
+			<string>zingtv</string>
+			<key>label</key>
+			<string>Boom Music</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.fahlnbg.appcheats/pref</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.fahlnbg.appcheats</string>
+			<key>key</key>
+			<string>nhaccuatui</string>
+			<key>label</key>
+			<string>Nhaccuatui </string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.fahlnbg.appcheats/pref</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.fahlnbg.appcheats</string>
+			<key>key</key>
+			<string>mail</string>
+			<key>label</key>
+			<string>Mail Apple</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.fahlnbg.appcheats/pref</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.fahlnbg.appcheats</string>
+			<key>key</key>
+			<string>safari</string>
+			<key>label</key>
+			<string>Safari</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.fahlnbg.appcheats/pref</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.fahlnbg.appcheats</string>
+			<key>key</key>
+			<string>youtube</string>
+			<key>label</key>
+			<string>YouTube</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.fahlnbg.appcheats/pref</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.fahlnbg.appcheats</string>
+			<key>key</key>
+			<string>camera</string>
+			<key>label</key>
+			<string>Camera Apple</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Nhà phát triển</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>twitter</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+			<key>label</key>
+			<string>I'm Hà</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>donate</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>paypal.png</string>
+			<key>label</key>
+			<string>Ủng hộ </string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>mail</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>mail.png</string>
+			<key>label</key>
+			<string>Hỗ trợ</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>• Mail Apple : Xoá Tất cả ,...
+• Nhaccuatui : Chức năng ViP
+• Zing TV : Chức năng ViP
+• Boom Music : Chức năng ViP
+• YouTube: Chạy nền , Bỏ Quảng Cáo ,..
+• Camera Apple : Portait Lightning ,...
+• Facebook : Bỏ Myday ,..
+• Messenger [ Bản cũ ]: Đánh dấu là chưa đọc 
+•Safari : Chạy nền, iPad tab,...
+
+RESPRING : Thay đổi có hiệu lực</string>
+			<key>label</key>
+			<string>Mô tả Tweak </string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>App Cheats</string>
+</dict>
+</plist>
